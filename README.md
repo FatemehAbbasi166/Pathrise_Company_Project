@@ -12,3 +12,4 @@ Another key focus is on predicting the duration it takes for a fellow to secure 
 
 By addressing these goals, the analysis aims to enhance the understanding of the placement outcomes for fellows in the Pathrise program, providing valuable insights for both program improvement and the expectations of prospective participants.
 ## Contents
+-Exploratory Data Analysis (EDA)- Data Visualization
